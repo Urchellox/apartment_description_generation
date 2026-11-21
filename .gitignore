@@ -1,0 +1,5 @@
+final_model/
+__pycache__/
+*.pyc
+.venv/
+upload_model.py
